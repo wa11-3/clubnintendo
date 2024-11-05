@@ -1,0 +1,2 @@
+# clubnintendo
+A Web Magazine
