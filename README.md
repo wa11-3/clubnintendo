@@ -1,2 +1,2 @@
-# clubnintendo
+# Club Nintendo
 A Web Magazine
